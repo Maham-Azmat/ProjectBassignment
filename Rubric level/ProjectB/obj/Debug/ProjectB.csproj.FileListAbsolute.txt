@@ -1,0 +1,16 @@
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\bin\Debug\ProjectB.exe.config
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\bin\Debug\ProjectB.exe
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\bin\Debug\ProjectB.pdb
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.csprojAssemblyReference.cache
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.frmstudent.resources
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.Properties.Resources.resources
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.csproj.GenerateResource.cache
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.exe
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.pdb
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.Dashboard.resources
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.Studentportal.resources
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.Addclo.resources
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.viewclo.resources
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.addrubric.resources
+D:\Maham\semester 6\DBMS LAB\ProjectB\ProjectB\obj\Debug\ProjectB.rublevel.resources
